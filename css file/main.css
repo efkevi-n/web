@@ -7,9 +7,6 @@
 
   background-color: white;
   box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.3);
-  position:absolute;
-    left:25%;
-    top: 25%;
 }
 
 
@@ -18,5 +15,7 @@ p {
 }
 
 body{
-text-align: center;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
 }
