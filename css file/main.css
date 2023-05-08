@@ -1,0 +1,22 @@
+.main-div {
+  z-index: 200;
+  border-radius: 20px;
+  display: flex;
+  height: 300px;
+  width: 550px;
+
+  background-color: white;
+  box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.3);
+  position:absolute;
+    left:25%;
+    top: 25%;
+}
+
+
+p {
+  font-family: Hanken-Grotesk, Arial ;
+}
+
+body{
+text-align: center;
+}
