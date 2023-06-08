@@ -7,8 +7,8 @@ Here is the desktop version!
 
 
 
+![Screenshot 2023-06-08 111630](https://github.com/efkevi-n/web-design-project/assets/132151580/149f350c-8ee1-4c9e-8e8f-85965dfcd5c9)
 
-[Screenshot 2023-06-08 111630](https://github.com/efkevi-n/web-design-project/assets/132151580/70275fac-6075-4894-980e-0be1d353df54
 
 
 Here is the mobile version
